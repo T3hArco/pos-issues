@@ -2,7 +2,7 @@
 
 Welkom op de EhackB-POS issue tracker, testers kunnen hier gevonden bugs rapporteren aan de developers zodat deze zo snel mogelijk gerepareerd kunnen worden. 
 
-De test-ground heeft IP-locking disabled. [Klik op mij om de testing te starten](http://pos.arco.me/)
+De test-ground heeft IP-locking disabled. [Klik op mij om de testing te starten](http://pos.arco.me/index.php?page=authenticate)
 
 Enkele richtlijnen bij het rapporteren van bugs/exploits:
 
